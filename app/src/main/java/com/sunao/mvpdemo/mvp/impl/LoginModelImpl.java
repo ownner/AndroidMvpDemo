@@ -22,7 +22,7 @@ import java.util.Map;
  */
 public class LoginModelImpl implements LoginModel{
 
-    String url = "http://182.92.85.86:8080/captain/bfapp/user/login";
+    String url = "http://xxxxx";
     public final static int TIME_OUT_CODE = 99;
     public final static String TIME_OUT_MSG = "网络连接不可用，请稍后重试";
     @Override
